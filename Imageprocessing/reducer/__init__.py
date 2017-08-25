@@ -1,0 +1,1 @@
+from FaceDetectorReducer import Reducer

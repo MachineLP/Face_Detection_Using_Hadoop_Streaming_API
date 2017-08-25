@@ -1,0 +1,1 @@
+from FaceDetectorMapper import Mapper
